@@ -221,6 +221,3 @@ Built with ❤️ by [Neehubee](https://github.com/neehubee)
 
 ---
 
-## 🚀 Ready to deploy? I can also help with Render, Railway, or Replit setup!
-
-Just say → **“Deploy now”** 💪
