@@ -16,7 +16,7 @@ MoodDecode is an NLP-powered API that can analyze human emotions, detect crisis 
 The API is deployed and running on **Render**.
 
 **🌐 Live URL:**  
-👉 [https://mooddecode-api.onrender.com]https://moodecode-api.onrender.com
+👉 https://moodecode-api.onrender.com
 
 ---
 
