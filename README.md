@@ -12,7 +12,7 @@ MoodDecode is an NLP-powered API that can analyze human emotions, detect crisis 
 
 * **Backend:** Python, Flask
 * **NLP Models:** Hugging Face APIs (or OpenAI-compatible)
-* **Deployment:** Localhost (with Ngrok) or Cloud (Render, Railway, etc.)
+
 
 ---
 
