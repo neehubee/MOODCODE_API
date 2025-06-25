@@ -1,6 +1,6 @@
 
 
-# 🚀 MoodDecode API
+# 🚀 MoodDecode API/MOODCODE_API
 
 MoodDecode is an NLP-powered API that can analyze human emotions, detect crisis situations, and summarize text. This API is designed for use in mental wellness apps, smart journals, and crisis monitoring systems.
 
