@@ -1,6 +1,4 @@
-🔥 Absolutely! Here's a **professional README.md** tailored for your project:
 
----
 
 # 🚀 MoodDecode API
 
@@ -13,11 +11,17 @@ MoodDecode is an NLP-powered API that can analyze human emotions, detect crisis 
 * **Backend:** Python, Flask
 * **NLP Models:** Hugging Face APIs (or OpenAI-compatible)
 
+## 🚀 Live Deployment
+
+The API is deployed and running on **Render**.
+
+**🌐 Live URL:**  
+👉 [https://mooddecode-api.onrender.com](https://mooddecode-api.onrender.com)
 
 ---
 
 
-
+ 
 ## 🔥 API Endpoints
 
 ---
